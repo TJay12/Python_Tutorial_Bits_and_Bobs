@@ -1,0 +1,7 @@
+Name: TJ
+Level: 5
+Health: 87.5
+Inventory:
+ - Sword
+ - Potion
+ - Shield

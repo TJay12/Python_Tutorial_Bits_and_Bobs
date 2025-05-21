@@ -1,0 +1,7 @@
+A45345 John Smith,85,92
+A23575 Nick Johnson,80,60
+A23422 Alice Johnson,45,70
+A56545 Suguna Param,70,90
+A45433 June Tam,50,80
+A45434 Bob Brown,80,84
+A45348 Emily Davis,78,90
